@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Emile Van DeR Heyde
-- 👀 I’m interested in Data - Analytics , Engineering , Moderm Data Stack , Data Science . Payments industry . 
+- 👀 I’m interested in Data - Analytics , Engineering , Modern Data Stack , Data Science . Payments industry . 
 - 🌱 I’m currently learning - To be better at all of the above 
 - 💞️ I’m looking to collaborate on - Modern Data Stack 
 - 📫 How to reach me - Right here 
